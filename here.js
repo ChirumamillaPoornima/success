@@ -18,7 +18,7 @@ function test() {
 }
 
 
-function signin() {
+function login() {
     const uservalue = username.value;
     const emailvalue = email.value;
     const password1value = password.value;
